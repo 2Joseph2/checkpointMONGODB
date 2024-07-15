@@ -1,0 +1,1 @@
+db.contactlist.updateOne({ lastName: "Kefi" }, { $set: { firstName: "Anis" } });

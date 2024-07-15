@@ -1,0 +1,1 @@
+db.contactlist.deleteMany({ age: { $lt: 5 } })
